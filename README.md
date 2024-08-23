@@ -45,10 +45,12 @@ streamlit run 1_🏠_home.py
 This will launch a local web server, and you can view the app in your web browser at http://localhost:8501.
 
 ## Project Structure
+```bash
 ├── '1_🏠_home.py.py': The main script that runs the Streamlit app.
 ├── 'datasets/': This directory contains the dataset with FIFA 23 player statistics.
 ├── 'pages/': This directory contains the other pages
 ├── 'requirements.txt': A file listing the Python dependencies needed to run the app.
+```
 
 ## Features
 - Player Search: Search for specific players by name, club, or nationality.
