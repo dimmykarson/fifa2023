@@ -24,7 +24,7 @@ To get started with this project, you'll need to have Python installed on your m
 
 ```bash
 pip install streamlit pandas
-
+```
 
 You may also want to create a virtual environment:
 
